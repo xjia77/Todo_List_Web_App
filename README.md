@@ -1,4 +1,4 @@
-Todo List Web App  
+## Todo List Web App  
 Development tools: VS Code  
 Made with Django  
 How to run: python manage.py runserver in the terminal  
